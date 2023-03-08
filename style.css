@@ -5,6 +5,18 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+#Relogio1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, .7);
+    border-radius: 7px;
+    letter-spacing: 3px;
+    align-items: center;
+    justify-content: center;
+
+}
+
 body {
     height: 100vh;
     background: linear-gradient(120deg, #ffe53bd8, #a38080da);
