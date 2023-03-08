@@ -26,3 +26,7 @@ relogio();
 Função de colocacar o relogio para funcionar, está com algum erro.
 ainda to procurando o erro.
 */
+
+/*
+Relógio Digital Funcionando.
+*/
