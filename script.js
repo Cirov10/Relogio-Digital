@@ -18,6 +18,8 @@ horas.textContent = hr;
 minutos.textContent = min;
 segundos.textContent = s;
 
+relogio();
+
 });
 
 /*
